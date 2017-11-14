@@ -287,8 +287,8 @@
     <Content Include="dist\assets\logo.jpg" />
     <Content Include="dist\assets\Wallet.ico" />
     <Content Include="dist\index.html" />
-    <Content Include="dist\inline.d58da6d1ec9a629f6969.bundle.js" />
-    <Content Include="dist\main.318e369ed2f61ce85d54.bundle.js" />
+    <Content Include="dist\inline.ee10c5484d7e8d3a2a6a.bundle.js" />
+    <Content Include="dist\main.00cc9f61d505519a482c.bundle.js" />
     <Content Include="dist\polyfills.42a832b8e1ec76a00f68.bundle.js" />
     <Content Include="dist\vendor.5d0edba0f9cc180d0354.bundle.js" />
     <Content Include="favicon.ico" />
@@ -346,6 +346,7 @@
     <Content Include="dist\assets\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="dist\assets\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="dist\assets\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Properties\PublishProfiles\VisitingCardWallet - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
